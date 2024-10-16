@@ -1,6 +1,6 @@
 ### Olá mundo, sou a Rayssa Metzger, prazer! 
 
-#### Analysis and systems development | Python | php - laravel | flutter - dart | JavaScript | MySql | 
+#### Analysis and systems development | Python | php - laravel | flutter - dart | JavaScript HTML CSS | MySql | 
 <i>(Guarapuava, PR - Brasil)</i>
 
 ###  Sobre
